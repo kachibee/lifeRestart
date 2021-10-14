@@ -1,5 +1,5 @@
-# 生活重启
+# 人生重开模拟器
 
-生活重启[RESTART](view/index.html)
+人生重开模拟器[开始游戏](view/index.html)
 
 <iframe src="https://discord.com/widget?id=883382868427014255&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
