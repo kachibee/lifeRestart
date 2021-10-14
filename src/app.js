@@ -55,7 +55,11 @@ class App{
         // Index
         const indexPage = $(`
         <div id="main">
-         
+        <button id="achievement">成就</button>
+        <button id="specialthanks">特别感谢</button>
+        <button id="themeToggleBtn">黑</button>
+        <button id="save">Save</button>
+        <button id="load">Load</button>
             <div id="title">
                 人生重开模拟器<br>
                 <div style="font-size:1.5rem; font-weight:normal;">这垃圾人生一秒也不想呆了</div>
