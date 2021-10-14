@@ -1,4 +1,4 @@
-# Life Restart
+# 生活重启
 
 生活重启[RESTART](view/index.html)
 
