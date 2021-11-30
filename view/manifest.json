@@ -46,6 +46,6 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/view/index.html",
-  "description": "人生重开模拟器",
+  "description": "人生重启模拟器",
   "background_color": "#ffffff"
 }
